@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>bootstrap</id>
+    <version>5.3.2</version>
+    <title>Bootstrap CSS</title>
+    <authors>The Bootstrap Authors</authors>
+    <owners>The Bootstrap Authors</owners>
+    <licenseUrl>https://www.nuget.org/packages/bootstrap/5.3.2/license</licenseUrl>
+    <projectUrl>https://getbootstrap.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/bootstrap/5.3.2/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The most popular front-end framework for developing responsive, mobile first projects on the web.</description>
+    <summary>Bootstrap framework in CSS. Includes JavaScript.</summary>
+    <releaseNotes>https://blog.getbootstrap.com/</releaseNotes>
+    <copyright>Copyright 2011-2023</copyright>
+    <language>en-us</language>
+    <tags>css mobile-first responsive front-end framework web</tags>
+  </metadata>
+</package>
